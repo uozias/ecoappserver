@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: 
+application_id: "cbc77fb1ae29682f0e7fa931cdc6cb4e"
