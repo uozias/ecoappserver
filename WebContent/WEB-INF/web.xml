@@ -13,7 +13,7 @@
     <description></description>
     <display-name>ConnectTest</display-name>
     <servlet-name>ConnectTest</servlet-name>
-    <servlet-class>jp.uozias.test_servlet.ConnectTest</servlet-class>
+    <servlet-class>jp.uozias.ecoappserver.controllers.ConnectTest</servlet-class>
     <init-param>
       <param-name>useProxy</param-name>
       <param-value>0</param-value>
