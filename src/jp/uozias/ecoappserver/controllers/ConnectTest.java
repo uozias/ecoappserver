@@ -20,11 +20,6 @@ import jp.uozias.ecoappserver.UnauthorizedException;
 
 
 
-
-
-
-
-
 public class ConnectTest extends HttpServlet {
 
 	private CommonParameter commonParameter = null;
